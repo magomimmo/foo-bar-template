@@ -1,4 +1,4 @@
-(defproject foo-bar/lein-template "0.2.0-SNAPSHOT"
+(defproject foo-bar/lein-template "0.2.0"
   :description "FIXME: write description"
   :url "http://github.com/magomimmo/foo-bar-template"
   :license {:name "Eclipse Public License"
